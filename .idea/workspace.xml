@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40e491d7-d9c1-45f7-b0e8-4cf365a1906f" name="Default Changelist" comment="#2">
+    <list default="true" id="40e491d7-d9c1-45f7-b0e8-4cf365a1906f" name="Default Changelist" comment="#3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -35,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601635727321</updated>
-      <workItem from="1601635728369" duration="758000" />
+      <workItem from="1601635728369" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="#2">
       <created>1601640259043</created>
@@ -54,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601640259043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#3">
+      <created>1601640721630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601640721630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,12 +81,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#2" />
-    <option name="LAST_COMMIT_MESSAGE" value="#2" />
+    <MESSAGE value="#3" />
+    <option name="LAST_COMMIT_MESSAGE" value="#3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601640264708">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601640727165">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601640264708" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601640727165" />
+    <state x="502" y="351" key="git4idea.ui.GitResetDialog" timestamp="1601641000779">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="502" y="351" key="git4idea.ui.GitResetDialog/0.0.1440.900@0.0.1440.900" timestamp="1601641000779" />
   </component>
 </project>
