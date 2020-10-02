@@ -10,12 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40e491d7-d9c1-45f7-b0e8-4cf365a1906f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="40e491d7-d9c1-45f7-b0e8-4cf365a1906f" name="Default Changelist" comment="#2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601635727321</updated>
-      <workItem from="1601635728369" duration="385000" />
+      <workItem from="1601635728369" duration="758000" />
     </task>
+    <task id="LOCAL-00001" summary="#2">
+      <created>1601640259043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601640259043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,12 +72,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="#2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601635815883">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601640264708">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601635815883" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601640264708" />
   </component>
 </project>
